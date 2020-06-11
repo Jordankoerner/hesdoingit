@@ -8,7 +8,8 @@ module.exports = {
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
     siteTitleAlt: `Jordan Köerner -  Web Professional`,
-    siteImage: '/banner.jpg'
+    siteImage: '/banner.jpg',
+    siteUrl: 'https://wizardly-hopper-2ef9b8.netlify.app'
   },
   plugins: [
     {
