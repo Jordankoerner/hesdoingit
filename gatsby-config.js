@@ -28,7 +28,7 @@ module.exports = {
       options: {
         name: `Jordan Köerner -  Web Professional`,
         short_name: `jordan`,
-        description: `Web Professional Jordan Köerner in Phoenix, Arizona`,
+        description: `Web developer and project manager from Los Angeles, CA`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
